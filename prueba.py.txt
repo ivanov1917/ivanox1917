@@ -15,6 +15,7 @@ def buscarCaracteres():
 			break;
 			print("Encontrado")
 		else:
+			
 			print("No encontrado")
 		
 def__init__():
