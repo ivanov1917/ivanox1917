@@ -1,9 +1,11 @@
+import sys as sy 
 def iniciar():
 	print("hello wordl")
 	print("hello")
 	print("turrisystem")
 	i=int(input("escriba un numero")
 	print(i)
+	print(sy.info())
 
 def__init__():
 	iniciar()
