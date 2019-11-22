@@ -5,7 +5,7 @@ def iniciar():
 	print("turrisystem")
 	i=int(input("escriba un numero")
 	print(i)
-	print(sy.info())
+	print(sy.version)
 
 def__init__():
 	iniciar()
