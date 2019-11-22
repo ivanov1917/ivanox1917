@@ -2,7 +2,8 @@ def iniciar():
 	print("hello wordl")
 	print("hello")
 	print("turrisystem")
-
+	i=int(input("escriba un numero")
+	print(i)
 
 def__init__():
 	iniciar()
