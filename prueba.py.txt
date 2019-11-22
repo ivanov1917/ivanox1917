@@ -7,6 +7,18 @@ def iniciar():
 	print(i)
 	print(sy.version)
 
+def buscarCaracteres():
+	a="abcdfg"
+	for i in range(len(a)):
+		b=a.find("fg")
+		if b == True:
+			break;
+			print("Encontrado")
+		else:
+			print("No encontrado")
+		
 def__init__():
 	iniciar()
+	buscarCaracteres()
+
 init()
