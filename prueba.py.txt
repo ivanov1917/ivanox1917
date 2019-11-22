@@ -1,5 +1,6 @@
 def iniciar():
 	print("hello wordl")
+	print("hello")
 
 
 def__init__():
